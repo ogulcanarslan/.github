@@ -76,13 +76,6 @@ Backend tarafında **ölçeklenebilir, güvenli ve sürdürülebilir** yazılım
 
 ---
 
-## 📊 GitHub İstatistiklerim
-
-![Oğulcan'ın GitHub Stats](https://github-readme-stats.vercel.app/api?username=ogulcanarslan\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcanarslan\&layout=compact)
-
----
 
 ## 📫 İletişim
 
